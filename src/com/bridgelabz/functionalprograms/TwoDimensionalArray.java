@@ -34,7 +34,6 @@ public class TwoDimensionalArray {
 		scanner.close();
 
 		System.out.println();
-//		printArray(array);
 	}
 
 	public static int[][] readIntArray(Scanner scanner,int noOfRows,int noOfColumns) {
